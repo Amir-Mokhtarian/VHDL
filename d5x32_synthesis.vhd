@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------
+-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--------------------------------------------------------------------------------
+--   ____  ____
+--  /   /\/   /
+-- /___/  \  /    Vendor: Xilinx
+-- \   \   \/     Version: P.20131013
+--  \   \         Application: netgen
+--  /   /         Filename: .vhd
+-- /___/   /\     Timestamp: Thu Apr 08 12:56:00 2021
+-- \   \  /  \ 
+--  \___\/\___\
+--             
+-- Command	: -intstyle ise -ar Structure -tm d5x32 -w -dir netgen/synthesis -ofmt vhdl -sim d5x32.ngc d5x32_synthesis.vhd 
+-- Device	: xc3s500e-4-fg320
+-- Input file	: d5x32.ngc
+-- Output file	: C:\users\crossover\Desktop\My Mac Desktop\az 02 arezo\amir1\netgen\synthesis\d5x32_synthesis.vhd
+-- # of Entities	: 1
+-- Design Name	: d5x32
+-- Xilinx	: C:\Xilinx\14.7\ISE_DS\ISE\
+--             
+-- Purpose:    
+--     This VHDL netlist is a verification model and uses simulation 
+--     primitives which may not represent the true implementation of the 
+--     device, however the netlist is functionally correct and should not 
+--     be modified. This file cannot be synthesized and should only be used 
+--     with supported simulation tools.
+--             
+-- Reference:  
+--     Command Line Tools User Guide, Chapter 23
+--     Synthesis and Simulation Design Guide, Chapter 6
+--             
+--------------------------------------------------------------------------------
+
